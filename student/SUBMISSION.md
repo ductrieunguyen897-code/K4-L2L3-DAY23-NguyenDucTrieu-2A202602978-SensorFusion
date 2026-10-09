@@ -4,10 +4,10 @@
 
 ## Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repo (fork):
+- Họ tên: Nguyễn Đức Triệu
+- MSSV: 2A202602978
+- Email: ductrieunguyen897@gmail.com
+- Link repo (fork): https://github.com/ductrieunguyen897-code/K4-L2L3-DAY23-NguyenDucTrieu-2A202602978-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`):
 
 ## Tóm tắt kết quả
